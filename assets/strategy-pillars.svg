@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-labelledby="t d" font-family="Inter, 'Segoe UI', system-ui, -apple-system, Arial, sans-serif">
+<title id="t">Strategic research pillars</title><desc id="d">Three research pillars supported by a shared foundation of responsible research.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081d32"/><stop offset=".62" stop-color="#0f3550"/><stop offset="1" stop-color="#14566a"/></linearGradient>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#176b82"/><stop offset=".5" stop-color="#38a6b5"/><stop offset="1" stop-color="#d7a653"/></linearGradient>
+<radialGradient id="glow" cx=".85" cy=".1" r=".6"><stop offset="0" stop-color="#38a6b5" stop-opacity=".28"/><stop offset="1" stop-color="#38a6b5" stop-opacity="0"/></radialGradient>
+<marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#9fc3d1"/></marker>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="800" rx="28" fill="url(#bg)"/><rect width="1200" height="800" rx="28" fill="url(#dots)"/><rect width="1200" height="800" rx="28" fill="url(#glow)"/>
+<rect x="0" y="0" width="1200" height="6" fill="url(#bar)"/>
+<text x="60" y="62" font-size="17" font-weight="800" fill="#69c2ca" text-anchor="start" letter-spacing="2.5">STRATEGY</text>
+<text x="60" y="104" font-size="34" font-weight="750" fill="#fff" text-anchor="start">Three pillars, one foundation</text>
+<rect x="60" y="140" width="1080" height="70" rx="16" fill="#d7a653" fill-opacity="0.14" stroke="#d7a653" stroke-opacity="0.65" stroke-width="1.6"/>
+<text x="600" y="183" font-size="24" font-weight="750" fill="#fff" text-anchor="middle">ICRI-STE Council · scientific governance &amp; strategy</text>
+<rect x="60" y="232" width="344" height="388" rx="18" fill="#38a6b5" fill-opacity=".1" stroke="#38a6b5" stroke-opacity=".7" stroke-width="2"/>
+<path d="M60 250a18 18 0 0 1 18-18h308a18 18 0 0 1 18 18v-10H60z" fill="#38a6b5"/>
+<text x="88" y="282" font-size="23" font-weight="750" fill="#fff" text-anchor="start">Computational Healthcare</text>
+<text x="88" y="310" font-size="23" font-weight="750" fill="#fff" text-anchor="start">Intelligence</text>
+<text x="88" y="340" font-size="14" font-weight="800" fill="#38a6b5" text-anchor="start" letter-spacing="2">CHI Lab</text>
+<circle cx="96" cy="378" r="5" fill="#38a6b5"/>
+<text x="114" y="384" font-size="18.5" font-weight="520" fill="#e8f2f6" text-anchor="start">Biomedical AI</text>
+<circle cx="96" cy="424" r="5" fill="#38a6b5"/>
+<text x="114" y="430" font-size="18.5" font-weight="520" fill="#e8f2f6" text-anchor="start">Computational oncology</text>
+<circle cx="96" cy="470" r="5" fill="#38a6b5"/>
+<text x="114" y="476" font-size="18.5" font-weight="520" fill="#e8f2f6" text-anchor="start">Medical imaging</text>
+<circle cx="96" cy="516" r="5" fill="#38a6b5"/>
+<text x="114" y="522" font-size="18.5" font-weight="520" fill="#e8f2f6" text-anchor="start">Systems biology</text>
+<circle cx="96" cy="562" r="5" fill="#38a6b5"/>
+<text x="114" y="568" font-size="18.5" font-weight="520" fill="#e8f2f6" text-anchor="start">Federated learning</text>
+<rect x="428" y="232" width="344" height="388" rx="18" fill="#d7a653" fill-opacity=".1" stroke="#d7a653" stroke-opacity=".7" stroke-width="2"/>
+<path d="M428 250a18 18 0 0 1 18-18h308a18 18 0 0 1 18 18v-10H428z" fill="#d7a653"/>
+<text x="456" y="282" font-size="23" font-weight="750" fill="#fff" text-anchor="start">Intelligent Energy</text>
+<text x="456" y="310" font-size="23" font-weight="750" fill="#fff" text-anchor="start">Systems</text>
+<text x="456" y="340" font-size="14" font-weight="800" fill="#d7a653" text-anchor="start" letter-spacing="2">IESST Lab</text>
+<circle cx="464" cy="378" r="5" fill="#d7a653"/>
+<text x="482" y="384" font-size="18.5" font-weight="520" fill="#e8f2f6" text-anchor="start">Renewable-energy forecasting</text>
+<circle cx="464" cy="424" r="5" fill="#d7a653"/>
+<text x="482" y="430" font-size="18.5" font-weight="520" fill="#e8f2f6" text-anchor="start">Smart grids</text>
+<circle cx="464" cy="470" r="5" fill="#d7a653"/>
+<text x="482" y="476" font-size="18.5" font-weight="520" fill="#e8f2f6" text-anchor="start">Energy optimisation</text>
+<circle cx="464" cy="516" r="5" fill="#d7a653"/>
+<text x="482" y="522" font-size="18.5" font-weight="520" fill="#e8f2f6" text-anchor="start">Sustainable engineering</text>
+<circle cx="464" cy="562" r="5" fill="#d7a653"/>
+<text x="482" y="568" font-size="18.5" font-weight="520" fill="#e8f2f6" text-anchor="start">Computational energy models</text>
+<rect x="796" y="232" width="344" height="388" rx="18" fill="#5fbf8f" fill-opacity=".1" stroke="#5fbf8f" stroke-opacity=".7" stroke-width="2"/>
+<path d="M796 250a18 18 0 0 1 18-18h308a18 18 0 0 1 18 18v-10H796z" fill="#5fbf8f"/>
+<text x="824" y="282" font-size="23" font-weight="750" fill="#fff" text-anchor="start">Environmental</text>
+<text x="824" y="310" font-size="23" font-weight="750" fill="#fff" text-anchor="start">Intelligence</text>
+<text x="824" y="340" font-size="14" font-weight="800" fill="#5fbf8f" text-anchor="start" letter-spacing="2">EIAS Lab</text>
+<circle cx="832" cy="378" r="5" fill="#5fbf8f"/>
+<text x="850" y="384" font-size="18.5" font-weight="520" fill="#e8f2f6" text-anchor="start">Environmental AI</text>
+<circle cx="832" cy="424" r="5" fill="#5fbf8f"/>
+<text x="850" y="430" font-size="18.5" font-weight="520" fill="#e8f2f6" text-anchor="start">Autonomous monitoring</text>
+<circle cx="832" cy="470" r="5" fill="#5fbf8f"/>
+<text x="850" y="476" font-size="18.5" font-weight="520" fill="#e8f2f6" text-anchor="start">Geospatial intelligence</text>
+<circle cx="832" cy="516" r="5" fill="#5fbf8f"/>
+<text x="850" y="522" font-size="18.5" font-weight="520" fill="#e8f2f6" text-anchor="start">Climate analytics</text>
+<circle cx="832" cy="562" r="5" fill="#5fbf8f"/>
+<text x="850" y="568" font-size="18.5" font-weight="520" fill="#e8f2f6" text-anchor="start">Ecological systems</text>
+<rect x="60" y="642" width="1080" height="78" rx="16" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1.6"/>
+<text x="600" y="676" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">Foundation: research ethics · integrity · responsible AI &amp; data governance</text>
+<text x="600" y="702" font-size="16" font-weight="500" fill="#b9d0dc" text-anchor="middle">Training and early-career development · quality assurance · open, reproducible science</text>
+</svg>
